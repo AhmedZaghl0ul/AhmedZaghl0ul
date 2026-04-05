@@ -56,12 +56,12 @@ I am a **Fourth-year Computer Science student** specializing in **Artificial Int
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&theme=dark&show_icons=true&hide_border=false&include_all_commits=true" alt="Ahmed's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&show_icons=true&theme=dark&hide_border=false" alt="Ahmed's Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AhmedZaghl0ul&icon=0&color=0" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=AhmedZaghl0ul&color=blue&style=flat-square" alt="Visitor Count">
 </p>
