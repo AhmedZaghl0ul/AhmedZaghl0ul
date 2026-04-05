@@ -1,27 +1,67 @@
-# 💫 About Me:
-<br>Hello! I'm Ahmed Alaa Mohamed Zaghloul, a third-year Computer Science student with a strong passion for Data Analysis. Throughout my academic journey, I’ve developed a deep interest in exploring data, discovering insights, and turning numbers into clear, impactful visual stories.
+# 👋 Hi, I'm Ahmed Alaa | AI & Computer Vision Engineer
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbansal0005/rahulbansal0005/master/assests/working.gif" width="300" alt="Work">
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmed_zaghlolul) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmd.bn.la.zghlwl) [![LinkedIn]](https://www.linkedin.com/in/a7medalaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a7m.zaghl0ul@gmail.com) 
+## 🚀 About Me
+I am a **Fourth-year Computer Science student** specializing in **Artificial Intelligence and Data Science**. My core focus is building intelligent systems using **Computer Vision** and **Deep Learning**. I am passionate about bridging the gap between raw data and real-world impact through innovative AI solutions.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 🔧 Skills & Tools
-- 📊 **Data Analysis Tools:** Excel, Power BI, Tableau  
-- 🐍 **Programming & Libraries:** Python (NumPy, Pandas, Matplotlib)  
-- 🗄️ **Databases & Queries:** SQL  
-- 📈 **Statistics, Data Cleaning, Data Visualization**  
-- 🧠 **Problem Solving & Algorithms:** Practicing on [Codeforces](https://codeforces.com/profile/Ahmed_Zaghl0ul)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmedZaghl0ul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🎓 **Level 4 CS Student** at Thebes Academy for Management & Technology.
+- 🛠️ Currently focused on **DeepFake Detection** and **Action Recognition** projects.
+- 🔭 Expert in **Face Mesh** tracking and **Human-Computer Interaction (HCI)**.
+- 🌱 Exploring advanced architectures in **Sequential Data (LSTMs & Transformers)**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmedZaghl0ul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 🧠 Artificial Intelligence & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ⚙️ Environments & Tools
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+* **[Sign Language Detection](https://github.com/AhmedZaghl0ul/Sign-Language-Detection-using-LSTM):** Real-time sign language recognition using **LSTM** and **MediaPipe Holistic**.
+* **[Real-time Drowsiness Detection]:** An safety system for drivers using **EAR (Eye Aspect Ratio)** and facial landmarks.
+* **[Boredom Prediction (DAiSEE)]:** Deep Learning model to predict student engagement and boredom levels.
+* **[DeepFake Detection]:** Identifying AI-generated video manipulations using advanced CNN architectures.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medalaa) 
+[![Mostaql](https://img.shields.io/badge/Mostaql-2ecc71?style=flat&logo=Freelancer&logoColor=white)](https://mostaql.com/u/Ahmed_Zaghl0ul)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a7m.zaghl0ul@gmail.com) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-B11714?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed_Zaghl0ul)
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&theme=dark&show_icons=true&hide_border=false&include_all_commits=true" alt="Ahmed's Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AhmedZaghl0ul&icon=0&color=0" alt="Visitor Count">
+</p>
