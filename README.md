@@ -56,16 +56,6 @@ I am a **Computer Science student** specializing in **Artificial Intelligence an
 <a href="mailto:a7m.zaghl0ul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
-## GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&show_icons=true&theme=dark&hide_border=false" alt="Ahmed's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedZaghl0ul&color=blue&style=for-the-badge" alt="Visitor Count">
