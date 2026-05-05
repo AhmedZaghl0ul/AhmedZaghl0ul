@@ -45,7 +45,6 @@ I am a **Senior Computer Science student** specializing in **Artificial Intellig
 * **[Boredom Prediction (DAiSEE)](#):** Deep Learning model designed to predict student engagement and boredom levels.
 * **[Real-time Drowsiness Detection](#):** A safety system for drivers using **EAR (Eye Aspect Ratio)** and facial landmarks.
 
-*(Note: Don't forget to update the `#` links above with your actual repository URLs!)*
 
 ---
 
