@@ -60,8 +60,9 @@ I am a **Senior Computer Science student** specializing in **Artificial Intellig
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&show_icons=true&theme=dark&hide_border=false" alt="Ahmed's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedZaghl0ul&show_icons=true&theme=dark&hide_border=false" alt="Ahmed's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
