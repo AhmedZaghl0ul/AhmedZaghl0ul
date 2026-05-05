@@ -5,12 +5,12 @@
 </p>
 
 ## About Me
-I am a **Senior Computer Science student** specializing in **Artificial Intelligence and Data Science**. My core focus is building intelligent systems using **Computer Vision** and **Deep Learning**. I am passionate about bridging the gap between raw data and real-world impact through innovative, scalable AI solutions.
+I am a **Computer Science student** specializing in **Artificial Intelligence and Data Science**. My core focus is building intelligent systems using **Computer Vision** and **Deep Learning**. I am passionate about bridging the gap between raw data and real-world impact through innovative, scalable AI solutions.
 
 - **B.Sc. in Computer Science** at Thebes Academy for Management & Technology.
-- Currently focused on my graduation project: **DeepFake Detection** using hybrid architectures (CNNs, LSTMs, Transformers).
+- Currently focused on my graduation project: **Boredom Detection**.
 - Expert in **Face Mesh** tracking, **Action Recognition**, and **Human-Computer Interaction (HCI)**.
-- Continuously exploring advanced architectures for **Sequential Data**.
+- Continuously exploring advanced architectures.
 
 ---
 
@@ -42,7 +42,7 @@ I am a **Senior Computer Science student** specializing in **Artificial Intellig
 * **[Sign Language Detection](https://github.com/AhmedZaghl0ul/Sign-Language-Detection-using-LSTM):** Real-time sign language recognition using **LSTM** and **MediaPipe Holistic**.
 * **[DeepFake Detection](#):** Identifying AI-generated video manipulations using advanced hybrid models.
 * **[Liverpool Smart Attendance System](#):** A computer vision system recognizing specific players in video footage using facial recognition libraries.
-* **[Boredom Prediction (DAiSEE)](#):** Deep Learning model designed to predict student engagement and boredom levels.
+* **[Boredom Prediction](#):** Deep Learning model designed to predict student engagement and boredom levels.
 * **[Real-time Drowsiness Detection](#):** A safety system for drivers using **EAR (Eye Aspect Ratio)** and facial landmarks.
 
 
@@ -64,6 +64,8 @@ I am a **Senior Computer Science student** specializing in **Artificial Intellig
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZaghl0ul&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedZaghl0ul&color=blue&style=for-the-badge" alt="Visitor Count">
